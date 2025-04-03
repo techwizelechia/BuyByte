@@ -1,3 +1,73 @@
-body{
-    font-family: "Roboto", sans-serif;
-}
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+  }
+
+  /* Header Styling */
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0px 5%;
+    background-color: #fff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Logo Styling */
+  header a img {
+    max-width: 100px;
+    height: auto;
+  }
+
+  /* Search Bar */
+  .searchBar {
+    flex: 1;
+    /* margin-left: 20%; */
+  }
+
+  .searchBar form {
+    display: flex;
+    align-items: center;
+    background: #f1f1f1;
+    padding: 5px 40px;
+    border-radius: 20px;
+    width: 50%;
+  }
+
+  .searchBar input {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 8px;
+    background: transparent;
+  }
+
+  .searchBar i {
+    color: #333;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+
+  /* Store Icons */
+  .store-icons {
+    display: flex;
+    gap: 20px;
+  }
+
+  .store-icons i {
+    font-size: 20px;
+    cursor: pointer;
+    transition: color 0.2s;
+  }
+
+  .store-icons i:hover {
+    color:tomato;
+  }
+
+
