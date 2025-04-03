@@ -1,3 +1,79 @@
+Fonts Used --- fonts from google fonts https://fonts.google.com/
+1.Roboto
+2.San-serif
+3.Open Sans
+4.Montserrat
+
+Make the logo for the e commerce page --- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-svg%2Fe-commerce-logo&psig=AOvVaw3pDGMGLgAdmav2xrdjgU-J&ust=1743759706391000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCMiGuKTJu4wDFQAAAAAdAAAAABAE
+
+Make the searchbar section --- https://stackoverflow.com/questions/35173180/search-icon-in-search-field
+https://nikitahl.com/search-icon-inside-input
+
+Icons --- https://fontawesome.com/icons
+
+Images --- https://pixabay.com/images/search/coding/#:~:text=2%2C000%2B%20Free%20Coding%20%26%20Programming%20Images%20%2D%20Pixabay
+https://pixabay.com/photos/woman-young-girlie-joyful-happy-6863306/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Here's a structured file structure and a roadmap for building your eCommerce web page using HTML, CSS, and JavaScript.
 
 📂 File Structure
